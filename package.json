@@ -4,8 +4,8 @@
   "description": "A starter kit for React JS with Parcel Bundler",
   "main": "./index.js",
   "scripts": {
-    "build": "parcel build ./src/index.html",
-    "start": "parcel ./src/index.html -p 8080"
+    "build": "parcel build ./examples-and-exercises/index.html",
+    "start": "parcel ./examples-and-exercises/index.html -p 8080"
   },
   "keywords": [
     "reactjs"
